@@ -1,0 +1,17 @@
+{
+  "name": "todo-react-backend-deploy",
+  "version": 2, 
+  "public": true, 
+  "builds": [
+    {
+      "src": "./index.cjs",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "./index.cjs"
+    }
+  ]
+}
