@@ -25,6 +25,6 @@ This project was particularly made to iniciate my posting journey at LinkedIn, s
 <!-- <br>  -->
 
 ## 📝 Main learnings
-* Deploying the project at **[Vercel](https://vercel.com/home)** 
+* Understanding the deployment at **[ Render ]([https://react-todo-backend-svr6.onrender.com/tasks](https://render.com/))** 
 * Recording the project and making this README more professional 
 * Creating API 
